@@ -1,6 +1,6 @@
 # Maratona Explorer 1.0
 
-![preview](.github/preview.png)
+![preview](preview.png)
 
 > Trilha Explorer
 
